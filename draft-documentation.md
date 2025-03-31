@@ -18,11 +18,11 @@ The cardano-cli is the command-line interface (CLI) tool for interacting with th
 
 ## Getting Started
 
-1.**Downloading Binaries**
+1.**Download Binaries**
 
-- **Compatible Versions**: Download the latest cardano-cli binaries compatible with specific versions of cardano-node from the Cardano Node Release Notes.
+- **Compatible Versions**: Download the latest cardano-cli binaries compatible with specific versions of cardano-node from [cardano-node's release notes](https://github.com/IntersectMBO/cardano-node/releases).
 
-- **All Versions**: Access binaries for all versions of cardano-cli from the Cardano-CLI Release Notes.
+- **All Versions**: Access binaries for all versions of `cardano-cli` from [cardano-cli's release notes](https://github.com/IntersectMBO/cardano-cli/releases).
 
   2.**Installation**
 
@@ -32,17 +32,15 @@ The cardano-cli is the command-line interface (CLI) tool for interacting with th
 
 ## Command Reference
 
--- add the links from original repo
 For a comprehensive list of commands and their options, refer to the following resources:
 
-Command List: List of All Commands
+Command List: [List of all commands](cardano-cli/test/cardano-cli-golden/files/golden/help.cli)
 
-Command Options: Description of Command Options
+Command Options: [Description of each command's options](cardano-cli/test/cardano-cli-golden/files/golden/help)
 
-Development Documentation
-Cardano Node Wiki: Detailed development documentation is available in the Cardano Node Wiki.
+Development Documentation : [Cardano Node Wiki](https://github.com/input-output-hk/cardano-node-wiki/wiki).
 
-Haddock Documentation: Explore the Haddock documentation for cardano-cli at Haddock Docs.
+Haddock Documentation: [Haddock Documentation](https://cardano-cli.cardano.intersectmbo.org/)
 
 ## Example Commands
 
@@ -84,18 +82,16 @@ Here are some common cardano-cli commands to get you started:
 
 ## Support and Community
 
-- GitHub Issues: Report bugs or request features in the GitHub Issues section.
+- GitHub Issues: Report bugs or request features in the [GitHub Issues section](https://github.com/IntersectMBO/cardano-cli/issues).
 
-- Cardano Forum: Join the Cardano Forum for discussions and support.
-
-- Discord: Engage with the community on the Cardano Discord.
+- Discord: Engage with the community on the Cardano Discord [Dev Ex Working Group](https://discord.com/channels/1136727663583698984/1250047836339306526)
 
 ## Contributing
 
 We welcome contributions to the cardano-cli repository!
 To get started:
 
-- Review the Contributing Guide.
+- Review the [Contributing guide](CONTRIBUTING.md).
 
 - Fork the repository and create a new branch for your changes.
 
