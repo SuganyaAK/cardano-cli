@@ -1,8 +1,8 @@
 # Maintainer Activity Log
 
-**Maintainer:** Suganya Raju
-**Program:** Intersect Community Maintainer Retainer Program
-**Repositories:** [cardano-api](https://github.com/IntersectMBO/cardano-api) · [cardano-cli](https://github.com/IntersectMBO/cardano-cli)
+**Maintainer:** Suganya Raju  
+**Program:** Intersect Community Maintainer Retainer Program  
+**Repositories:** [cardano-api](https://github.com/IntersectMBO/cardano-api) · [cardano-cli](https://github.com/IntersectMBO/cardano-cli)  
 **Log started:** 2026-09-11
 
 ---
@@ -11,7 +11,7 @@
 
 - Add one row per action, on the day it happens.
 - Detailed info belongs in the linked issue/PR.
-- Categories: `Triage` · `Escalation` · `Docs` · `Community/Mentorship` · `PR Review` · `Recurring Theme`
+- Categories: `Triage` · `Escalation` · `Docs` · · `PR Review` · `Recurring Theme`
 - At the end of each month, copy the highlights into the **Monthly Summary** section below for reporting.
 
 ---
@@ -22,9 +22,7 @@
 |------|------|--------|------|--------------|---------|------|----------|
 | 2026-09-01 | cardano-cli | Discord  | `query kes-period-info` broken on CLI v11.0.0.0 for node v11.0.1 | Surfaced to core team | Acknowledged by Carlos Lopez De Lara, passed to core team | https://github.com/IntersectMBO/cardano-cli/issues/1434 | Closed |
 | | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
+
 
 ---
 
@@ -36,26 +34,27 @@
 
 **Discord activity:** - "Community channel activity was minimal this period — 1 message. Shifted focus to GitHub issue triage.
 
-**Issues triaged:** 2
-**Escalations to core team:** None, there was no need
-**PRs reviewed / merged:** 1
+**Issues triaged:** 6 [cardano-cli - 1414,1380 cardano-api = 1302, 1324, 1291, 1339]    
+**Escalations to core team:** None, there was no need  
+**PRs reviewed / merged:** 1 #1407  
 **Docs updated:** 1
 
 
 **Notes for self-assessment:**
 -
--
+- Label each issue 
+- Keep labels consistent across both repositories(Todo)
 
 ---
 
 ## Documents updated:
 
-| # | File | Link | Status |
-|---|------|------|--------|
-| 1 | README.md | [cardano-cli#1336](https://github.com/IntersectMBO/cardano-cli/pull/1336) | PR open |
-| 2 | SECURITY.md | [cardano-cli#1407](https://github.com/IntersectMBO/cardano-cli/pull/1407) | PR open |
-| 3 | SECURITY.md | [cardano-api#1280](https://github.com/IntersectMBO/cardano-api/pull/1280) | PR closed |
-
+| # | File | Link | Status | Date |
+|---|------|------|--------| -----|
+| 1 | README.md | [cardano-cli#1336](https://github.com/IntersectMBO/cardano-cli/pull/1336) | PR open | 
+| 2 | SECURITY.md | [cardano-cli#1407](https://github.com/IntersectMBO/cardano-cli/pull/1407) | Merged | 2026-09-14 |
+| 3 | SECURITY.md | [cardano-api#1280](https://github.com/IntersectMBO/cardano-api/pull/1280) | PR Merged | 2026-08-10
+ 
 
 ## Recurring Themes Watchlist
 
