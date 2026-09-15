@@ -40,10 +40,11 @@
 **Docs updated:** 1
 
 
-**Notes for self-assessment:**
+**Notes for self-assessment and work to be done:**
 -
 - Label each issue 
 - Keep labels consistent across both repositories(Todo)
+- Haddock link in cardano-api repository shows the same as Cardano.Api.Tx, have to double check if its right
 
 ---
 
