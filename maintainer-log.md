@@ -32,7 +32,7 @@
 
 **Period:** Aug 19 – Sep 19, 2026
 
-**Discord activity:** - "Community channel activity was minimal this period — 1 message. Shifted focus to GitHub issue triage.
+**Discord activity:** - Community channel activity was minimal this period — 1 message. Shifted focus to GitHub issue triage.
 
 **Issues triaged:** 6 [cardano-cli - 1414,1380 cardano-api = 1302, 1324, 1291, 1339]    
 **Escalations to core team:** None, there was no need  
