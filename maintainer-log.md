@@ -28,6 +28,26 @@
 
 ## Monthly Summary
 
+### Month 6 — October 2026
+
+**Period:** Sep 19 – Oct 19, 2026
+
+**Discord activity:** - Community channel activity was minimal this period — 1 information from the team. Focused on GitHub issue triage.
+
+**Issues triaged:** 1 [cardano-cli - 1448 , 1461, | cardano-api ]    
+**Escalations to core team:** None, there was no need  
+**PRs reviewed / merged:** 
+**Docs updated:** 
+
+
+**Notes for self-assessment and work to be done:**
+-
+- Label each issue - completed, all issues starting from April are now triaged accordingly
+- Keep labels consistent across both repositories(Todo) - access issues with creating new labels, which was resolved on October 12 and I am going to work on this for the next month
+- Haddock link in cardano-api repository shows the same as Cardano.Api.Tx, have to double check if its right - checked
+
+---
+
 ### Month 5 — September 2026
 
 **Period:** Aug 19 – Sep 19, 2026
