@@ -34,7 +34,7 @@
 
 **Discord activity:** - Community channel activity was minimal this period — 1 information from the team. Focused on GitHub issue triage.
 
-**Issues triaged:** 1 [cardano-cli - 1448 , 1461, | cardano-api ]    
+**Issues triaged:** 1 [cardano-cli - 1448 , 1461, 1462, 1463 | cardano-api ]    
 **Escalations to core team:** None, there was no need  
 **PRs reviewed / merged:** 
 **Docs updated:** 

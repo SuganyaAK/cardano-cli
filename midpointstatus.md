@@ -24,5 +24,5 @@
 ## 3. Plan for Second Half
 
 1. **Monitor & Triage:** Continue light daily sweeps of Discord and GitHub issues to maintain triage SLAs.
-2. **PR Lifecycle:** Follow through on code reviews, feedback, and merging for the 1 active PRs submitted during the first half.
+2. **PR Lifecycle:** Follow through on code reviews, feedback, and merging of the 1 stale PR(#1336) submitted during the first half.
 3. **Request & Take On Additional Scope:** Request and take on additional maintainer tasks/backlog items from lead maintainers, as current triage volume alone is not sufficient to show full progress and impact.
