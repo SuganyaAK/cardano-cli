@@ -1,4 +1,4 @@
-# Midpoint Status & Report Update
+# Midpoint Status Report
 
 **Project:** `cardano-cli` & `cardano-api`
 **Role:** Community Maintainer  
