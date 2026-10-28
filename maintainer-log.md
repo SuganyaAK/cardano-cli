@@ -28,6 +28,24 @@
 
 ## Monthly Summary
 
+### Month 6 - October 2026 - Second set of tasks
+
+**Period:** Oct 19 – Oct 31, 2026
+
+**Discord activity:** - Community channel activity was none, unable to satify the task "- Support contributor interactions (pointing newcomers to first issues, answering process questions)"
+
+**Issues triaged:** 1 [cardano-cli - 1472, 1481 | cardano-api - 1382, 1386]    
+**Escalations to core team:** None, there was no need  
+**PRs reviewed / merged:** 
+**Docs updated:** 
+
+
+**Notes for self-assessment and work to be done:**
+
+- Keep labels consistent across both repositories(Todo) - working on it
+
+---
+
 ### Month 6 — October 2026
 
 **Period:** Sep 19 – Oct 19, 2026
