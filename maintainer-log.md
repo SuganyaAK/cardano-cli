@@ -28,6 +28,24 @@
 
 ## Monthly Summary
 
+### Month 
+
+**Period:** Nov 1 – Nov , 2026
+
+**Discord activity:** - 
+
+**Issues triaged:** 1 [cardano-cli - 1493, 1500 | cardano-api - no new issues ]    
+**Escalations to core team:** None, there was no need  
+**PRs reviewed / merged:** Closed 1336 and Reopened 1499
+**Docs updated:** cardano-cli README.md
+
+
+**Notes for self-assessment and work to be done:**
+
+- Keep labels consistent across both repositories(Todo) - working on it
+
+---
+
 ### Month 6 - October 2026 - Second set of tasks
 
 **Period:** Oct 19 – Oct 31, 2026
@@ -90,9 +108,10 @@
 
 | # | File | Link | Status | Date |
 |---|------|------|--------| -----|
-| 1 | README.md | [cardano-cli#1336](https://github.com/IntersectMBO/cardano-cli/pull/1336) | PR open | 
+| 1 | README.md   | [cardano-cli#1336](https://github.com/IntersectMBO/cardano-cli/pull/1336) | PR closed | 2026-11-10 |
 | 2 | SECURITY.md | [cardano-cli#1407](https://github.com/IntersectMBO/cardano-cli/pull/1407) | Merged | 2026-09-14 |
-| 3 | SECURITY.md | [cardano-api#1280](https://github.com/IntersectMBO/cardano-api/pull/1280) | PR Merged | 2026-08-10
+| 3 | SECURITY.md | [cardano-api#1280](https://github.com/IntersectMBO/cardano-api/pull/1280) | PR Merged | 2026-08-10 |
+| 4 | README.md   | [cardano-cli#1336](https://github.com/IntersectMBO/cardano-cli/pull/1499) | PR open | 2026-11-10 |
  
 
 ## Recurring Themes Watchlist
