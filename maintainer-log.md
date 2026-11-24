@@ -30,11 +30,11 @@
 
 ### Month 
 
-**Period:** Nov 1 – Nov , 2026
+**Period:** Nov 1 – Nov 30, 2026
 
 **Discord activity:** - 
 
-**Issues triaged:** 1 [cardano-cli - 1493, 1500 | cardano-api - no new issues ]    
+**Issues triaged:** 1 [cardano-cli - 1493, 1500, 1503 | cardano-api - 1416, 1423, 1424]    
 **Escalations to core team:** None, there was no need  
 **PRs reviewed / merged:** Closed 1336 and Reopened 1499
 **Docs updated:** cardano-cli README.md
@@ -42,7 +42,7 @@
 
 **Notes for self-assessment and work to be done:**
 
-- Keep labels consistent across both repositories(Todo) - working on it
+- Keep labels consistent across both repositories(Todo) - working on it(completed 8 labels with proper description already)
 
 ---
 
